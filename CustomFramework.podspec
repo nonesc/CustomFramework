@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "CustomFramework"
-  s.version      = "1.0.0"
+  s.version      = "2.0.0"
   s.summary      = "This is CustomFramework summary"
 
 
@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
   s.author        = { "sujin" => "sujinchaichanamongkol@gmail.com" }
   
 
-  s.source       = { :git => "https://github.com/nonesc/CustomFramework.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/nonesc/CustomFramework.git", :tag => "1.0.1" }
   s.platform = :ios, "8.0"
 
 
