@@ -25,9 +25,9 @@ Pod::Spec.new do |s|
   s.homepage     = "http://www.google.com"
   
 
-  s.license      = "MIT"
+  s.license      = "LICENSE.md"
   
-  s.author             = { "sujin" => "sujinchaichanamongkol@gmail.com" }
+  s.author        = { "sujin" => "sujinchaichanamongkol@gmail.com" }
   
 
   s.source       = { :git => "https://github.com/nonesc/CustomFramework.git", :tag => "1.0.0" }
@@ -36,6 +36,6 @@ Pod::Spec.new do |s|
 
   s.source_files  = "CustomFramework/**/*.{h,m,swift}"
 
-
+  s.swift_version = "4.1"
 
 end
