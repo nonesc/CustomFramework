@@ -17,4 +17,8 @@ public class CustomClass {
     public func doSomething() {
         print("gg")
     }
+    
+    public func usefulMethod() {
+        print("im useful")
+    }
 }
