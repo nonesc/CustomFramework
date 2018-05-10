@@ -16,13 +16,13 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "CustomFramework"
-  s.version      = "0.0.1"
-  s.summary      = "A short description of CustomFramework."
+  s.version      = "1.0.0"
+  s.summary      = "This is CustomFramework summary"
 
 
-  s.description  = "description"
+  s.description  = "This is long description for CustomFramework"
 
-  s.homepage     = "http://EXAMPLE/CustomFramework"
+  s.homepage     = "http://www.google.com"
   
 
   s.license      = "MIT"
@@ -31,10 +31,10 @@ Pod::Spec.new do |s|
   
 
   s.source       = { :git => "https://github.com/nonesc/CustomFramework.git", :tag => "1.0.0" }
+  s.platform = :ios, "8.0"
 
 
-
-  s.source_files  = "CustomFramework", "CustomFramework/**/*.{h,m,swift}"
+  s.source_files  = "CustomFramework/**/*.{h,m,swift}"
 
 
 
