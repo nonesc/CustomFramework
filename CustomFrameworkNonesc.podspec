@@ -15,11 +15,11 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "CustomFramework"
+  s.name         = "CustomFrameworkNonesc"
   s.version      = "1.0.1"
-  s.summary      = "This is CustomFramework summary"
+  s.summary      = "This is CustomFrameworkNonesc summary"
 
-  s.description  = "This is long description for CustomFramework"
+  s.description  = "This is long description for CustomFrameworkNonesc"
 
   s.homepage     = "http://www.google.com"
   
