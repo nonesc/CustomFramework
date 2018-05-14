@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage     = "http://www.google.com"
   
 
-  s.license      = { :type => 'MIT', :file => 'LICENSE' }
+  s.license      = { :type => 'MIT', :file => 'LICENSE.md' }
   
   s.author        = { "sujin" => "sujinchaichanamongkol@gmail.com" }
   
