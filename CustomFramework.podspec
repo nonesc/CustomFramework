@@ -18,7 +18,6 @@ Pod::Spec.new do |s|
   s.name         = "CustomFramework"
   s.version      = "1.0.1"
   s.summary      = "This is CustomFramework summary"
-  s.depen
 
   s.description  = "This is long description for CustomFramework"
 
