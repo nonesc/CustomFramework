@@ -21,4 +21,8 @@ public class CustomClass {
     public func usefulMethod() {
         print("im useful")
     }
+    
+    public func v2() {
+        print("v2")
+    }
 }
